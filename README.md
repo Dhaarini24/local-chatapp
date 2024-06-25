@@ -18,10 +18,15 @@
   - npm (Node package manager)
 1. Installation
   - Clone the repository
-      -  git clone https://github.com/Dhaarini24/local-chatapp.git
-      - cd local-chatapp
-      - npm install
-      - npm start
+        
+      - ```bash
+         git clone https://github.com/Dhaarini24/local-chatapp.git
+      - ```bash
+        cd local-chatapp
+      - ```bash
+        npm install
+      - ```bash
+        npm start
 
 2. Access the application
     - Open your web browser and navigate to http://localhost:3000
