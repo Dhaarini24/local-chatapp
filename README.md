@@ -1,5 +1,5 @@
 ## Local Chat App
-- Overview
+- Overview:
     Local Chat App is a simple, lightweight chat application built with Node.js and SQLite. Designed for local network usage, this app facilitates real-time communication between users on the same network, making it ideal for small teams, classrooms, or local community groups.
 
 - Features
@@ -18,7 +18,7 @@
   - npm (Node package manager)
 1. Installation
   - Clone the repository
-      - https://github.com/Dhaarini24/local-chatapp.git
+      -  git clone https://github.com/Dhaarini24/local-chatapp.git
       - cd local-chatapp
       - npm install
       - npm start
