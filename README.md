@@ -29,4 +29,4 @@
         npm start
 
 2. Access the application
-    - Open your web browser and navigate to http://localhost:3000
+    - Open your web browser and navigate to http://localhost:3002
